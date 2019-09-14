@@ -21,7 +21,7 @@
           
           <h1>Jurnal</h1>
           <h2>Lihat jurnal di jurusan Informatika unsil</h2>
-          <a href="#">Lebih lanjut</a></div>
+          <a href="https://journal.unsil.ac.id/home" target="_blank">Lebih lanjut</a></div>
       </div>
 </template>
 

@@ -9,7 +9,7 @@
           />
           <h1>Tentang HMIF</h1>
           <h2>Pelajari tentang himpunan mahasiswa informatika</h2>
-          <a href="#">Lebih lanjut</a>
+          <a href="#/tentang">Lebih lanjut</a>
         </div>
             
         <div class="md-layout-item md-size-50 md-small-size-100 from-us"><img

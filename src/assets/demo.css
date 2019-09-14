@@ -273,3 +273,26 @@
 .section-akademik .from-us >  a{
     color: yellow;
 }
+.tentang-content{
+    width: 900px;
+    margin: -180px calc(50% - 450px) 0;
+}
+.tentang-title > h2{
+    color: yellow;
+    font-size: 20px;
+    margin: 0px;
+    font-weight: bold;
+}
+.tentang-title > h1{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 0px;
+}
+.tentang-title{
+    margin-top: -200px;
+    padding: 0 70px;
+}
+.tentang-konten{
+    padding: 50px 40px;
+}

@@ -64,8 +64,7 @@
               </li>
 
               <md-list-item
-                href="https://demos.creative-tim.com/vue-material-kit/documentation/"
-                target="_blank"
+                href="#/tentang"
                 v-if="showDownload"
               >
                 <p>Tentang</p>
